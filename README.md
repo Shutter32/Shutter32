@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'm [Shutter]) 👋 👨‍💻
+# I'm Shutter 👋 👨‍💻
 
 This is a Portfolio templete .
 
